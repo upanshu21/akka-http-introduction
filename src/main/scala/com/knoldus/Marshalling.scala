@@ -8,7 +8,6 @@ import akka.http.scaladsl.server.Directives._
 import akka.stream.ActorMaterializer
 import spray.json.DefaultJsonProtocol._
 import spray.json.RootJsonFormat
-
 import scala.concurrent.ExecutionContextExecutor
 import scala.io.StdIn
 
